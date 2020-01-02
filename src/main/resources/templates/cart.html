@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>My Java Shopping Cart</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>My Java Shopping Cart</h1>
+    </div>
+    <div class="main">
+        <ul>
+            <li th:each="item : ${items}">
+                <form method="post" class="products">
+                    <button class="btn constant-width btn-danger" type="submit" th:formaction="@{/remove/} + ${item.productName}">-</button>
+                    <span th:text="${item.quantity}"></span>
+                    <button class="btn constant-width btn-success"type="submit" th:formaction="@{/add/} + ${item.productName}">+</button>
+                    <span th:text="${item.productName}"></span>
+                </form>
+            </li>
+        </ul>
+        <form action="/add-item" method="post" class="new-product">
+            <input type="text" placeholder="Add an item" name="item">
+            <button class="btn btn-light" type="submit">Add Item</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+body {
+    background: #ccc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+ul {
+    width: 60%;
+    margin-left: 20%;
+    list-style: none;
+    text-align: left;
+}
+
+input {
+    vertical-align: middle;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.constant-width {
+    width: 30px;
+    margin: 5px;
+    padding: 0;
+    height: 30px;
+    vertical-align: middle;
+}

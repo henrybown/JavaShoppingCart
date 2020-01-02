@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ShoppingCartJavaReflection:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5c65df7-7d6e-4b0a-a81c-32e5a8efe9a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3nHCFVUradcjQ325E3FTtq7O9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.henrybown" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.henrybown.Main" />
+      <module name="ShoppingCartJavaReflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henrybown.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c65df7-7d6e-4b0a-a81c-32e5a8efe9a2" name="Default Changelist" comment="" />
+      <created>1576490555962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576490555962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2597" y="197" key="#Main" timestamp="1577962608263">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2597" y="197" key="#Main/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577962608263" />
+    <state x="2472" y="197" key="#Project_Structure" timestamp="1576490570051">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="197" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576490570051" />
+    <state x="2632" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577964830544">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2632" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964830544" />
+    <state x="2685" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1576496631130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2685" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576496631130" />
+    <state x="2610" y="315" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576496097777">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="315" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576496097777" />
+    <state x="2170" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577964728402">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2170" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964728402" />
+    <state x="2660" y="294" key="FileChooserDialogImpl" timestamp="1577964328483">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="294" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964328483" />
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom" timestamp="1577964847745">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964847745" />
+    <state width="1877" height="312" key="GridCell.Tab.0.center" timestamp="1577964847745">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964847745" />
+    <state width="1877" height="312" key="GridCell.Tab.0.left" timestamp="1577964847745">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964847745" />
+    <state width="1877" height="312" key="GridCell.Tab.0.right" timestamp="1577964847745">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964847745" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom" timestamp="1577961830178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577961830178" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center" timestamp="1577961830178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577961830178" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left" timestamp="1577961830178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577961830178" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right" timestamp="1577961830178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577961830178" />
+    <state x="2410" y="194" key="Maven.ArtifactSearchDialog" timestamp="1576494161319">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2410" y="194" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576494161319" />
+    <state x="1920" y="117" key="SettingsEditor" timestamp="1577964739686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1920" y="117" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577964739686" />
+    <state x="2575" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1577962004924">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2575" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577962004924" />
+    <state x="1900" y="149" width="1419" height="746" key="dock-window-1" timestamp="1576495992821">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1900" y="149" width="1419" height="746" key="dock-window-1/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576495992821" />
+    <state x="2610" y="294" key="extract.method.dialog" timestamp="1576505036938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="294" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576505036938" />
+    <state x="2577" y="277" width="606" height="526" key="find.popup" timestamp="1577956530370">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2577" y="277" width="606" height="526" key="find.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577956530370" />
+  </component>
+</project>
